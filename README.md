@@ -2,7 +2,7 @@
 
 <!-- 顶部霓虹闪烁标题 -->
 <h1 style="color:#00ffff; font-size:42px; font-weight:bold; text-shadow:0 0 20px #00ffff, 0 0 40px #00ffff; animation:blink 1.6s infinite; margin:0 0 30px 0; letter-spacing:2px;">
-🤹🏻‍♂️🤹🏻‍♂️ Apk120 · 专业APK加固去毒 全机型兼容 🤹🏻‍♂️🤹🏻‍♂️
+🤹🏻‍♂️🤹🏻‍♂️ Apk120 · 专业APK加固去毒 全机型兼容 · APKdoctor🤹🏻‍♂️🤹🏻‍♂️
 </h1>
 
 <!-- 渐变分隔线 -->
